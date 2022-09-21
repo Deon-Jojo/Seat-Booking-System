@@ -380,7 +380,7 @@
             </div>
             <div class="inputBox">
                <span>Time you want</span>
-               <input type="time-local">
+               <input type="time">
             </div>
             <div class="inputBox">
                <span>our address</span><br><br>
