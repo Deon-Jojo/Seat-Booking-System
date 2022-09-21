@@ -380,6 +380,10 @@
                <input type="datetime-local">
             </div>
             <div class="inputBox">
+               <span>Time you want</span>
+               <input type="time">
+            </div>
+            <div class="inputBox">
                <span>our address</span><br><br>
                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7868.263075051694!2d76.97148109999998!3d9.58392839999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x358bebd0f0eb9f61!2sOpen%20Kitchen%20Barbeque!5e0!3m2!1sen!2sin!4v1663216553542!5m2!1sen!2sin" width="1190" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>      
                   <input type="submit" value="order now" class="btn">
