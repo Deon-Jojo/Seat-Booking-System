@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>It's My Seat</title>
+    <title>Urbo Gret</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
@@ -17,7 +17,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> </i> It's My Seat</a>
+    <a href="#" class="logo"> </i> Urbo Gret</a>
 
     <nav class="navbar">
         <div id="nav-close" class="fas fa-times"></div>
@@ -42,7 +42,7 @@
             <div class="swiper-slide">
                 <div class="box" style="background: url(Images/Home.jpg) no-repeat;">
                     <div class="content">
-                        <h3>It's My Seat</h3>
+                        <h3>Urbo Gret</h3>
                         <p>Book your chairs and meals</p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
             <h3>contact info</h3>
             <a href="#"> <i class="fas fa-phone"></i> 00000000000 </a>
             <a href="#"> <i class="fas fa-phone"></i> 00000000000000 </a>
-            <a href="#"> <i class="fas fa-envelope"></i> itsmyseat@gmail.com </a>
+            <a href="#"> <i class="fas fa-envelope"></i> urbogret@gmail.com </a>
         </div>
 
         <div class="box">
@@ -159,7 +159,7 @@
 
     </div>
 
-    <div class="credit">It's My Seat | all rights reserved!</div>
+    <div class="credit">Urbo Gret| all rights reserved!</div>
 
 </section>
 
